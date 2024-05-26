@@ -7,8 +7,6 @@ cam = cv2.VideoCapture(0)
 
 frame_counter = 0
 result, image = cam.read()
-print("before loop n\
-      cvbcvb")
 
 while True:
     # Capture frame-by-frame
